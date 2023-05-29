@@ -1,0 +1,6 @@
+Node {
+	data: (Node { data: (Node { data: (Node { data: (Node { data: (Node { data: 4, parent: Some((Weak)), position: Left }, Node { data: 3, parent: Some((Weak)), 
+position: Right }), parent: Some((Weak)), position: Left }, Node { data: 4, parent: Some((Weak)), position: Right }), parent: Some((Weak)), position: Left }, Node { data: 4, parent: Some((Weak)), position: Right }), parent: Some((Weak)), position: Left }, Node { data: (Node { data: 7, parent: Some((Weak)), position: Left }, Node { data: (Node { data: (Node { data: 8, parent: Some((Weak)), position: Left }, Node { data: 4, parent: Some((Weak)), position: Right }), parent: Some((Weak)), position: Left }, Node { data: 9, parent: Some((Weak)), position: Right }), parent: Some((Weak)), position: Right }), parent: Some((Weak)), position: Right }), parent: Some((Weak)), position: Left }, Node { data: (Node { data: 1, parent: Some((Weak)), position: Left }, Node { data: 1, parent: Some((Weak)), position: Right }), parent: Some((Weak)), position: Right }),
+	parent: None,
+	position: TBD,
+}
